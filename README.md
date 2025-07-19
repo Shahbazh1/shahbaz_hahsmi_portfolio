@@ -36,14 +36,12 @@ Passionate about becoming a **Full Stack MERN Developer**, eager to grow in back
 ### 📌 **College Management System**
 A responsive web app for managing students, attendance, tests, and reports with real-time updates and an intuitive dashboard.  
 **Tech Stack:** React.js, Tailwind CSS, JavaScript, Firebase (Auth, Firestore, Hosting), Framer Motion  
-[🔗 View Code]() | [🔗 View Demo]()
 
 ---
 
 ### 📌 **Fresh Basket – Online Fruits & Vegetables Store**
 A modern, responsive eCommerce web app to order fresh fruits, vegetables, nuts, and spices online.  
 **Tech Stack:** React.js, Tailwind CSS, JavaScript, Firebase (Auth, Firestore, Hosting), Framer Motion  
-[🔗 View Code]() | [🔗 View Demo]()
 
 ---
 
@@ -57,7 +55,6 @@ The very website you’re viewing — showcasing my portfolio.
 ### 📌 **Final Year Project – AI Vet Care App**
 An AI-powered mobile app for livestock health management, featuring offline disease prediction, vaccination scheduling, reminders, and veterinary consultation.  
 **Tech Stack:** Java, XML, Python, Firebase  
-[🔗 View Code]() | [🔗 View Demo]()
 
 ---
 
