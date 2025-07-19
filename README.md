@@ -48,7 +48,6 @@ A modern, responsive eCommerce web app to order fresh fruits, vegetables, nuts, 
 ### 📌 **Portfolio Website**
 The very website you’re viewing — showcasing my portfolio.  
 **Tech Stack:** React.js, Tailwind CSS, HTML, CSS, Framer Motion  
-[🔗 View Code]() | [🔗 View Demo]()
 
 ---
 
